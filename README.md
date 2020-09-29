@@ -7,11 +7,12 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 req1: E  
 res1: Ja  
 req2: A  
 res2: Nee  
-rep3: U  
+req3: U  
+res3: Nee  
