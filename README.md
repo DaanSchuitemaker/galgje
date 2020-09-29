@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|O|.|E|
+|S|.|O|.|E|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -23,3 +23,4 @@ res5: Nee
 req6: G  
 res6: Nee  
 req7: S  
+res7: Ja  
