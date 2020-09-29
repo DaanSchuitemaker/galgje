@@ -19,4 +19,5 @@ res3: Nee
 req4: O  
 res4: Ja  
 req5: F  
-res5: Nee
+res5: Nee  
+req6: G  
