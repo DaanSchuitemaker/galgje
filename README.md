@@ -7,7 +7,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/3.png)
+![gallow](./images/4.png)
 
 ## Beurten
 req1: E  
@@ -17,5 +17,6 @@ res2: Nee
 req3: U  
 res3: Nee  
 req4: O  
-res4: Ja
+res4: Ja  
 req5: F  
+res5: Nee
